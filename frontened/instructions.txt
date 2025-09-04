@@ -1,1 +1,3 @@
-
+Create a React project in frontend folder by selecting React and javascript options fromm the cmd
+then replace the provided files with main.jsx
+remaining folders such as /components will not be existing in the tree create them and use the files provided in that folder
